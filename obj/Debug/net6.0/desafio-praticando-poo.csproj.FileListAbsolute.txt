@@ -1,0 +1,15 @@
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/bin/Debug/net6.0/desafio-praticando-poo
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/bin/Debug/net6.0/desafio-praticando-poo.deps.json
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/bin/Debug/net6.0/desafio-praticando-poo.runtimeconfig.json
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/bin/Debug/net6.0/desafio-praticando-poo.dll
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/bin/Debug/net6.0/ref/desafio-praticando-poo.dll
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/bin/Debug/net6.0/desafio-praticando-poo.pdb
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/obj/Debug/net6.0/desafio-praticando-poo.csproj.AssemblyReference.cache
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/obj/Debug/net6.0/desafio-praticando-poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/obj/Debug/net6.0/desafio-praticando-poo.AssemblyInfoInputs.cache
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/obj/Debug/net6.0/desafio-praticando-poo.AssemblyInfo.cs
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/obj/Debug/net6.0/desafio-praticando-poo.csproj.CoreCompileInputs.cache
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/obj/Debug/net6.0/desafio-praticando-poo.dll
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/obj/Debug/net6.0/ref/desafio-praticando-poo.dll
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/obj/Debug/net6.0/desafio-praticando-poo.pdb
+/home/est/doteNetC#/projetos-desafios/desafio-praticando-poo/obj/Debug/net6.0/desafio-praticando-poo.genruntimeconfig.cache
