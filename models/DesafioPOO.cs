@@ -5,19 +5,19 @@ using System.Threading.Tasks;
 
 namespace desafio_praticando_poo.models
 {
-    public class DesafioPOO1
+    public class DesafioPOO
     {
         private string nome;
         private int idade;
 
         //Pessoa
-        public DesafioPOO1(string n, int i)
+        public DesafioPOO(string n, int i)
     {
         nome = n;
         idade = i;
     }
 
-        public DesafioPOO1()
+        public DesafioPOO()
         {
         }
     //JEITO 1
